@@ -4,11 +4,11 @@
 
 # More About Me
 
-Im a software developer focused on building systems that are structured, maintainable, and intentional.
+I’m a software developer who builds systems that are structured, maintainable, and intentional.
 
-My primary passion project is **Cardian**, a Discord based card game platform designed around fairness, transparency, and long term stability.
+My main project is **Cardian**, a Discord-based card game platform designed around fairness, transparency, and long-term stability. I care more about clean structure and predictable behavior than flashy features.
 
-I prefer depth over speed, clarity over cleverness, and shipping things that feel finished rather than rushed.
+I prefer depth over speed, clarity over cleverness, and shipping things that feel finished instead of rushed.
 
 ## What I Work With
 
@@ -30,21 +30,32 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 
 ## Projects
 
+<details>
+<summary><b>Cardian</b></summary>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=cardian" />
 
-Cardian is a system driven Discord card game platform built to feel reliable, predictable, and fair rather than noisy or gimmicky.
+**Cardian** is a Discord-based card game platform built to feel reliable, predictable, and fair, not noisy or gimmicky.
 
-The project focuses on:
-- Button driven gameplay over command spam
+Focus areas:
+- Button-driven gameplay over command spam
 - Strict game state enforcement
-- Clear separation between ranked and non ranked modes
-- Anti farming and integrity safeguards
+- Clear separation between Ranked and non-Ranked modes
+- Anti-farming and integrity safeguards
 - Transparency through a companion website
 
-Website  
-https://cardian.dev
+Website: https://cardian.dev
 
-## Contact
+</details>
 
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
-`.tankdadank`
+## Get in touch
+
+<details>
+<summary><b>Contact</b></summary>
+<br>
+
+- Email: contact@cardian.dev  
+- Discord: `.tankdadank`  
+
+</details>
