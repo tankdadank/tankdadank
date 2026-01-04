@@ -34,7 +34,7 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 <summary><b>Cardian</b></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=cardian" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=cardian " />
 
 **Cardian** is a Discord-based card game platform built to feel reliable, predictable, and fair, not noisy or gimmicky.
 
