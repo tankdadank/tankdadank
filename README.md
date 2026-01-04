@@ -51,11 +51,5 @@ Website: https://cardian.dev
 
 ## Get in touch
 
-<details>
-<summary><b>Contact</b></summary>
-<br>
-
 - Email: contact@cardian.dev  
-- Discord: `.tankdadank`  
-
-</details>
+- Discord: `.tankdadank`
