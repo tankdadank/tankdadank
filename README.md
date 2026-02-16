@@ -36,7 +36,7 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=cardian" />
 
-**Cardian** is a Discord-based card game platform built to feel reliable, predictable, and fair, not noisy or gimmicky.
+**Cardian** is a Discord-based card game bot built to feel reliable, predictable, and fair, not noisy or gimmicky.
 
 Focus areas:
 - Button-driven gameplay over command spam
@@ -53,7 +53,7 @@ Website: https://cardian.dev
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=roleian" />
 
-**Roleian** is a Discord role management platform designed around structure, clarity, and long-term stability.
+**Roleian** is a Discord role management bot designed around structure, clarity, and long-term stability.
 
 It’s built to make roles feel organized and intentional instead of chaotic or temporary.
 
