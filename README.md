@@ -50,7 +50,7 @@ Email: contact@cardian.dev
 </details>
 
 <details>
-<summary><b>Cardian</b></summary>
+<summary><b>Roleian</b></summary>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=roleian" />
