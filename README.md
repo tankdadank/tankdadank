@@ -40,10 +40,9 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 
 Focus areas:
 - Button-driven gameplay over command spam
-- Strict game state enforcement
 - Clear separation between Ranked and non-Ranked modes
 - Anti-farming and integrity safeguards
-- Transparency through a companion website
+- Transparency with the users
 
 Website: https://cardian.dev
 Email: contact@cardian.dev  
