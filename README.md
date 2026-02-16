@@ -46,10 +46,11 @@ Focus areas:
 - Transparency through a companion website
 
 Website: https://cardian.dev
+Email: contact@cardian.dev  
 
 </details>
 
 ## Get in touch
 
-- Email: contact@cardian.dev  
+- Email: tankdadank@korvex.dev 
 - Discord: `.tankdadank`
