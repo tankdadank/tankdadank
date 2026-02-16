@@ -45,8 +45,6 @@ Focus areas:
 - Transparency with the users
 
 Website: https://cardian.dev
-Email: contact@cardian.dev  
-
 </details>
 
 <details>
@@ -55,12 +53,20 @@ Email: contact@cardian.dev
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=roleian" />
 
-**Roleian** 
-THIS IS A TEMPLATE
+**Roleian** is a Discord role management platform designed around structure, clarity, and long-term stability.
+
+It’s built to make roles feel organized and intentional instead of chaotic or temporary.
+
+Focus areas:
+- Policy-based auto-role systems
+- Button-driven role panels over reaction clutter
+- Timed and persistent role handling
+- Clear role structure and conflict control
+- Safe bulk edits with preview before apply
+- Governance tools that reduce role drift
+- A clean dashboard instead of command spam
 
 Website: https://roleian.dev
-Email: contact@roleian.dev  
-
 </details>
 
 ## Get in touch
