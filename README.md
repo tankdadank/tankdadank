@@ -17,6 +17,7 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 ## What I Work With
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-B22222?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-B22222?style=for-the-badge&logo=sqlite&logoColor=white)
