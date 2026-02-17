@@ -11,6 +11,7 @@ My main project is **Cardian**, a Discord-based card game platform designed arou
 I prefer depth over speed, clarity over cleverness, and shipping things that feel finished instead of rushed.
 
 ## Trophys
+
 [![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=tankdadank&theme=dark_lover&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## What I Work With
