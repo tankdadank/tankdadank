@@ -25,7 +25,6 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 
 ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-000000?style=for-the-badge&logo=discord&logoColor=white)
-
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
