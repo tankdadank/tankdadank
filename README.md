@@ -52,7 +52,41 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 
 ## Projects
 
-redoing
+## Projects
+
+<details>
+<summary><b>Cardian</b></summary>
+<br>
+
+**Cardian** is a Discord card game bot built around fairness, clarity, and predictable behavior.
+
+Focus areas:
+- Button-driven gameplay over command spam
+- Clear Ranked and Casual separation
+- Anti-farming and integrity safeguards
+- Transparent progression systems
+- Stable match handling and state tracking
+- Dashboard-backed configuration
+
+Website: https://cardian.dev
+</details>
+
+<details>
+<summary><b>Roleian</b></summary>
+<br>
+
+**Roleian** is a Discord role management bot focused on structure, clarity, and long-term stability.
+
+Focus areas:
+- Policy-based auto-role systems
+- Button-driven role panels over reaction clutter
+- Timed and persistent role handling
+- Clear role structure and conflict control
+- Safe bulk edits with preview before apply
+- Governance tools that reduce role drift
+
+Website: https://roleian.dev
+</details>
 
 ## Get in touch
 
