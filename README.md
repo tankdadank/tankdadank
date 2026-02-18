@@ -6,8 +6,6 @@
 
 I’m a software developer who builds systems that are structured, maintainable, and intentional.
 
-My main project is **Cardian**, a Discord-based card game platform designed around fairness, transparency, and long-term stability. I care more about clean structure and predictable behavior than flashy features.
-
 I prefer depth over speed, clarity over cleverness, and shipping things that feel finished instead of rushed.
 
 ## What I Work With
