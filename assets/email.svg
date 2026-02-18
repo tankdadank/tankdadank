@@ -1,13 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="40">
-  <style>
-    .label { fill: #999; font-family: Arial, sans-serif; font-size: 18px; }
-    .name { fill: #ff0000; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
-    .domain { fill: #ffffff; font-family: Arial, sans-serif; font-size: 18px; }
-  </style>
-
-  <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
-
-  <text x="15" y="26" class="label">Email:</text>
-  <text x="80" y="26" class="name">tankdadank</text>
-  <text x="195" y="26" class="domain">@korvex.dev</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="24">
+  <text x="0" y="18" font-family="Arial, sans-serif" font-size="16" fill="#ff0000">
+    tankdadank@korvex.dev
+  </text>
 </svg>
