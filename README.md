@@ -52,46 +52,9 @@ I prefer depth over speed, clarity over cleverness, and shipping things that fee
 
 ## Projects
 
-<details>
-<summary><b>Cardian</b></summary>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=cardian" />
-
-**Cardian** is a Discord-based card game bot built to feel reliable, predictable, and fair, not noisy or gimmicky.
-
-Focus areas:
-- Button-driven gameplay over command spam
-- Clear separation between Ranked and non-Ranked modes
-- Anti-farming and integrity safeguards
-- Transparency with the users
-
-Website: https://cardian.dev
-</details>
-
-<details>
-<summary><b>Roleian</b></summary>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tankdadank&repo=roleian" />
-
-**Roleian** is a Discord role management bot designed around structure, clarity, and long-term stability.
-
-It’s built to make roles feel organized and intentional instead of chaotic or temporary.
-
-Focus areas:
-- Policy-based auto-role systems
-- Button-driven role panels over reaction clutter
-- Timed and persistent role handling
-- Clear role structure and conflict control
-- Safe bulk edits with preview before apply
-- Governance tools that reduce role drift
-- A clean dashboard instead of command spam
-
-Website: https://roleian.dev
-</details>
+redoing
 
 ## Get in touch
 
-- Email: tankdadank@korvex.dev 
+- Email: `tankdadank@korvex.dev`
 - Discord: `.tankdadank`
