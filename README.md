@@ -8,6 +8,8 @@ I’m a software developer who builds systems that are structured, maintainable,
 
 I prefer depth over speed, clarity over cleverness, and shipping things that feel finished instead of rushed.
 
+I’m the founder of Korvex, an independent operating identity under which I build and operate my projects and software. Korvex is not a registered company. It is the name I use to publish, maintain, and organize my work.
+
 ## What I Work With
 
 ### Databases
